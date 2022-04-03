@@ -12,7 +12,7 @@
   Interest:   🦎🖥️🌱🎮
   
   Website:    //darkleaks.net            | Homepage
-  Website:    //scenex.darkleaks.net     | Scenex API Demo
+  ScenexAPI:  //scenex.darkleaks.net     | Scenex API Demo
   Soundcloud: //soundcloud.com/anoneemo  | My soundcloud page
   
 </pre>
