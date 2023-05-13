@@ -11,8 +11,7 @@
   Born:       92
   Interest:   🦎🖥️🌱🎮
   
-  Website:    //darkleaks.net            | Homepage
-  ScenexAPI:  //scenex.darkleaks.net     | Scenex API Demo
+  Website:    //darkleaks.net            | Homepage (nothing here yet)
   Soundcloud: //soundcloud.com/anoneemo  | My soundcloud page
   
 </pre>
