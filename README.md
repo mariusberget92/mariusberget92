@@ -11,7 +11,7 @@
   Born:       92
   Interest:   🦎🖥️🌱🎮
   
-  Website:    //darkleaks.net            | Homepage (nothing here yet)
+  Website:    //darkleaks.net            | Homepage
   Soundcloud: //soundcloud.com/anoneemo  | My soundcloud page
   
 </pre>
