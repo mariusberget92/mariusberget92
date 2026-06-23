@@ -41,8 +41,8 @@
 
 ---
 
-**RAW INTENT** *(private — commercial release pending)*
-&nbsp; A couples card game web app. Pass-the-phone format, 580+ cards across five heat levels, canvas animations, consent-aware gating.
+**RAW INTENT** *(private, see [RawIntent](https://RawIntent.app))*
+&nbsp; A couples card game web app. Pass-the-phone format, 680+ cards across five heat levels, consent-aware gating + more.
 `React` `Canvas API` `TypeScript` `PWA`
 
 ---
